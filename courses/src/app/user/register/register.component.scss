@@ -1,0 +1,43 @@
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Align form items to the top */
+    margin: 10vh auto 0; /* Center the form vertically at the top */
+    padding: 20px;
+  }
+
+  label {
+    margin-top: 10px;
+    color: #E91E63; /* Pink color for labels */
+  }
+  
+  input {
+    border: 1px solid #E91E63; /* Pink border for inputs */
+    padding: 8px;
+    margin: 5px 0;
+    width: 20%;
+
+    
+  }
+  
+  button {
+    background-color: #E91E63; /* Pink button color */
+    color: white;
+    width: 20%;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: opacity 0.3s;
+  }
+  
+  button:hover {
+    opacity: 0.5; /* Hover effect reducing opacity */
+  }
+
+  .error-message {
+    color: red !important;
+    font-size: 14px !important;
+    margin-top: 5px !important;
+  }

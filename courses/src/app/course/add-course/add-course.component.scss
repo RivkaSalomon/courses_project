@@ -1,0 +1,45 @@
+label{
+    color: #ff6b6b;
+}
+
+input, select  {
+    color: #ff6b6b; /* Set the text color of inputs, selects, and labels to the color of the buttons */
+    border: 1px solid #ff6b6b; /* Set the border color of inputs and selects to match the button color */
+    border-radius: 0; /* Set the border radius of inputs to be sharp */
+}
+
+input::placeholder {
+    color: #ff6b6b; /* Set the placeholder color of inputs to match the button color */
+}
+
+.btn-primary{
+    width: 100%;
+}
+
+
+
+.form-label {
+    text-align: center; /* Center align all form labels */
+}
+
+
+.last-btns {
+    // display: flex;
+    width: 100%;
+}
+
+.col-md-6{
+text-align: center;
+}
+
+// .form-group {
+//     display: flex;
+//     justify-content: space-around;
+//     width: 100%; /* Set the width of the form group to match the form */
+// }
+
+
+
+// form {
+//     margin-top: 4rem; /* Move the form down a few rows from the top */
+// }

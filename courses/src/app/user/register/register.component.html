@@ -1,0 +1,23 @@
+<form *ngIf="registerForm" [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+    <label for="id">ת.ז  <span> *</span></label>
+    <input type="number" formControlName="id">
+    <div *ngIf="registerForm.get('id').invalid && (registerForm.get('id').dirty)" class="error-message">תעודת הזהות אינה חוקית</div>
+
+    <label for="name">שם <span> *</span></label>
+    <input type="text" formControlName="name" placeholder="{{userService.name$.value}}">
+     <div *ngIf="registerForm.get('name').invalid && (registerForm.get('name').dirty || registerForm.get('name').touched)" class="error-message">שם הוא שדה חובה</div>
+
+    <label for="address">כתובת </label>
+    <input type="text" formControlName="address">
+
+    <label for="mail">כתובת מייל </label>
+    <input type="text" formControlName="mail">
+
+
+    <label for="password">סיסמה <span> *</span></label>
+    <input type="password" formControlName="password">
+    <div *ngIf="registerForm.get('password').invalid && (registerForm.get('password').dirty || registerForm.get('password').touched)" class="error-message"> סיסמא הוא שדה חובה</div>
+
+
+    <button type="submit">שליחה</button>
+</form> 

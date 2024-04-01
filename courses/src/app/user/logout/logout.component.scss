@@ -1,0 +1,15 @@
+.logout-button {
+    background-color: #FFEB3B; /* Yellow color for the button background */
+    color: black; /* Adjust text color for visibility */
+    border: none;
+    padding: 20px 40px; /* Increase padding for a larger button */
+    cursor: pointer;
+    transition: opacity 0.3s;
+    display: block;
+    margin: 20vh auto 0; /* Adjust margin for vertical positioning */
+  }
+  
+  .logout-button:hover {
+    opacity: 0.5; /* Hover effect reducing opacity */
+  }
+  

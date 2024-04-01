@@ -1,0 +1,31 @@
+<!-- <p>course-details works!</p>
+
+<div>
+    <h1>{{course?.name}}</h1>
+    <h1>{{course?.categoryId}}</h1>
+    <h3>{{course?.startDate  | date:'dd/MM/yyyy'}}</h3>
+    <h3>{{course?.img}}</h3>
+    <h3>{{course?.syllabus}}</h3>
+    <h3>{{howToLearnValue}} </h3> 
+
+
+
+    {{course | json}}
+</div> -->
+
+
+
+
+<div *ngIf="course" id="course-details-page" class="course-item">
+    <div style="position: relative; display: inline-block;">
+        <!-- <div id="detailsImg"> -->
+            <img src="../../assets/{{ course.img }}" style="width: 100%;" alt="תיאור התמונה">
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: right; background-color: rgba(255, 255, 255, 0.7); padding: 20px;">
+            <h1><strong>{{ course?.name }}</strong></h1>
+            <h3><strong>קטגוריה:</strong> {{ getCategoryName(course?.categoryId) }}</h3>
+            <h3 ><strong  >תאריך תחילת הקורס:</strong> <span [dateColor]=course?.startDate>{{ course?.startDate | date:'dd/MM/yyyy' }} </span></h3>
+            <h3><strong>סילבוס:</strong> {{ course?.syllabus }}</h3>
+        </div>
+    </div>
+</div> 
+

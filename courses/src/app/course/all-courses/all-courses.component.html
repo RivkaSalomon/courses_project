@@ -1,0 +1,39 @@
+
+<div id="select-buttons">
+
+<!-- Search by Course Name -->
+<div>
+<input name="searchByName" [(ngModel)]="searchByName"  type="text" placeholder="שם הקורס" class="bg-white border px-4 py-2 rounded-md shadow">
+<i><button (click)="filteredByName()">v</button></i>
+</div>
+
+<!-- Select Category -->
+<select [(ngModel)]="selectedCategory" (change)="applyCategoryFilter()" placeHolder="Select Category" class="bg-white border px-4 py-2 rounded-md shadow">
+  <option value="">כל הקטגוריות</option>
+  <option value="בנים">בנים</option>
+  <option value="בנות">בנות</option>
+</select>
+
+<!-- Select How Learning -->
+<select [(ngModel)]="selectedHowLearning" (change)="applyHowLearningFilter()" class="bg-white border px-4 py-2 rounded-md shadow">
+  <option value="">אופן למידה</option>
+  <option value="זום">זום</option>
+  <option value="פרונטלי">פרונטלי</option>
+</select>
+
+</div>
+
+
+
+<div id="all-course-page">
+  <div *ngFor="let c of (filteredCourses | async)" class="course-item">
+    <h1 class="course-name"><strong>{{c.name}}</strong></h1>
+    <h3>אופן למידה: {{learningWay(c.learningWay)}}</h3>
+    <h4>מספר מפגשים: {{c.count}}</h4>
+    <img src="../../../assets/{{c.img}}" alt="תיאור תמונה">
+
+    <button mat-raised-button color="primary" (click)="showDetails(c)">למידע נוסף</button>
+
+  </div>
+</div>
+ 

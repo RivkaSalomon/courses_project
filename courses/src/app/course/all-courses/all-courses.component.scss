@@ -1,0 +1,66 @@
+#select-buttons {
+  display: flex;
+  justify-content: space-between;
+  width: 100%; /* Cover the full width of the page */
+}
+
+#select-buttons > * {
+  margin-right: 10px; /* Adjust as needed for equal spacing between elements */
+}
+
+#select-buttons input, 
+#select-buttons select {
+  flex: 1; /* Allow the elements to grow and fill space equally */
+}
+
+// #all-course-page {
+//     position: absolute;
+//     top: 50%;
+//     left: 50%;
+//     transform: translate(-50%, -50%);
+//   }
+
+
+p, h1, h3, h4 {
+  color: #FF9800; /* Orange color for text */
+}
+
+input, select {
+  border: 1px solid #FF9800; /* Orange border for inputs and select */
+  padding: 8px;
+  margin: 5px 0;
+}
+
+button {
+  background-color: #FF9800; /* Orange button color */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: opacity 0.3s;
+}
+
+button:hover {
+  opacity: 0.5; /* Hover effect reducing opacity */
+}
+
+
+.course-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
+  border: 1px solid lightgray;
+}
+
+.course-name {
+  color: #FF9900; /* Custom style for the course name */
+}
+
+
+img{
+  width: 20%;
+  height: 20%;
+}

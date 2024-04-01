@@ -1,0 +1,206 @@
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\final_project.exe
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\final_project.deps.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\final_project.runtimeconfig.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\final_project.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\final_project.pdb
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.AssemblyReference.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfo.cs
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\scopedcss\bundle\final_project.styles.css
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CopyComplete
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\refint\final_project.dll
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.pdb
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\final_project.genruntimeconfig.cache
+Y:\Groups\Group_5\פישמן  יעל\Angular\project\Courses\server-web api\final_project\obj\Debug\net6.0\ref\final_project.dll
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\appsettings.Development.json
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\appsettings.json
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\final_project.exe
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\final_project.deps.json
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\final_project.runtimeconfig.json
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\final_project.dll
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\final_project.pdb
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rivki\Angular\Project\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.AssemblyReference.cache
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfoInputs.cache
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfo.cs
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CoreCompileInputs.cache
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cs
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cache
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\staticwebassets.build.json
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\staticwebassets.development.json
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\staticwebassets\msbuild.final_project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\staticwebassets\msbuild.build.final_project.props
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.final_project.props
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.final_project.props
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\scopedcss\bundle\final_project.styles.css
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CopyComplete
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.dll
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\refint\final_project.dll
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.pdb
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\final_project.genruntimeconfig.cache
+D:\Rivki\Angular\Project\server-web api\final_project\obj\Debug\net6.0\ref\final_project.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\final_project.exe
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\final_project.deps.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\final_project.runtimeconfig.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\final_project.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\final_project.pdb
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.AssemblyReference.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfo.cs
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\scopedcss\bundle\final_project.styles.css
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CopyComplete
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\refint\final_project.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.pdb
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\final_project.genruntimeconfig.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\angularnew\server-web api\final_project\obj\Debug\net6.0\ref\final_project.dll
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\appsettings.Development.json
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\appsettings.json
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\final_project.exe
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\final_project.deps.json
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\final_project.runtimeconfig.json
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\final_project.dll
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\final_project.pdb
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rivki\Angular\NewProgect\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.AssemblyReference.cache
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfoInputs.cache
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfo.cs
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CoreCompileInputs.cache
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cs
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cache
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.sourcelink.json
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\staticwebassets.build.json
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\staticwebassets.development.json
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\staticwebassets\msbuild.final_project.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\staticwebassets\msbuild.build.final_project.props
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.final_project.props
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.final_project.props
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\scopedcss\bundle\final_project.styles.css
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CopyComplete
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.dll
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\refint\final_project.dll
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.pdb
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\final_project.genruntimeconfig.cache
+D:\Rivki\Angular\NewProgect\server-web api\final_project\obj\Debug\net6.0\ref\final_project.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\final_project.exe
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\final_project.deps.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\final_project.runtimeconfig.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\final_project.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\final_project.pdb
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.AssemblyReference.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfo.cs
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\scopedcss\bundle\final_project.styles.css
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CopyComplete
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\refint\final_project.dll
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.pdb
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\final_project.genruntimeconfig.cache
+Y:\Groups\Group_5\סלומון  רבקה\angular\project\server-web api\final_project\obj\Debug\net6.0\ref\final_project.dll
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\appsettings.json
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\final_project.exe
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\final_project.deps.json
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\final_project.runtimeconfig.json
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\final_project.dll
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\final_project.pdb
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.AssemblyReference.cache
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfoInputs.cache
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.AssemblyInfo.cs
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CoreCompileInputs.cache
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\scopedcss\bundle\final_project.styles.css
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.csproj.CopyComplete
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.dll
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\refint\final_project.dll
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.pdb
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\final_project.genruntimeconfig.cache
+C:\Users\1.ONE1PC2259\Desktop\server-web api\final_project\obj\Debug\net6.0\ref\final_project.dll
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\final_project.exe
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\final_project.deps.json
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\final_project.runtimeconfig.json
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\final_project.dll
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\final_project.pdb
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.AssemblyInfo.cs
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.sourcelink.json
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\staticwebassets\msbuild.final_project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\staticwebassets\msbuild.build.final_project.props
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.final_project.props
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.final_project.props
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\scopedcss\bundle\final_project.styles.css
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.csproj.CopyComplete
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.dll
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\refint\final_project.dll
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.pdb
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\final_project.genruntimeconfig.cache
+C:\Users\user1\Downloads\courses_project\coursesApi\final_project\obj\Debug\net6.0\ref\final_project.dll

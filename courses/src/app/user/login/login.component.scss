@@ -1,0 +1,47 @@
+.styled-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 20vh; /* Adjust vertical position as needed */
+}
+
+
+.login-button{
+  background-color: #5d7c9b; /* Blue button color */
+}
+
+.submit-button{
+  background-color: #1976D2; /* Blue button color */
+}
+
+.submit-button,
+.login-button {
+  display: block;
+  margin: 0 auto;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: opacity 0.3s;
+  width: 100%;
+}
+
+.submit-button:hover,
+.login-button:hover {
+  opacity: 0.5; /* Hover effect reducing opacity */
+}
+
+.form-input {
+  width: 100%;
+  border: 1px solid #1976D2; /* Blue border for inputs */
+  padding: 8px;
+  margin: 5px 0;
+}
+
+.courseName {
+  text-align: center; /* Centering the courseName input */
+}

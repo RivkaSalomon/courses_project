@@ -1,0 +1,44 @@
+.button-container {
+    display: flex;
+    flex-direction: row-reverse; /* Reverse the order of the elements */
+    justify-content: center;
+    gap: 10px; /* Space between buttons */
+    font-family: Janer;
+    font-size: 230%;
+  }
+  
+  .custom-blue-button {
+    color: #1976D2; /* Blue color */
+    border: none; /* Remove button border */
+    padding: 14px 24px; /* Increase padding for larger button */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .custom-pink-button {
+    color: #E91E63; /* Pink color */
+    border: none; /* Remove button border */
+    padding: 14px 24px; /* Increase padding for larger button */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .custom-red-button {
+    color: #FF5252; /* Red color */
+    border: none; /* Remove button border */
+    padding: 14px 24px; /* Increase padding for larger button */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .custom-orange-button {
+    color: #FF9800; /* Orange color */
+    border: none; /* Remove button border */
+    padding: 14px 24px; /* Increase padding for larger button */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .custom-yellow-button {
+    color: #FFEB3B; /* Yellow color */
+    border: none; /* Remove button border */
+    padding: 14px 24px; /* Increase padding for larger button */
+    text-decoration: none; /* Remove underline */
+  }
+

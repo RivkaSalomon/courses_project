@@ -1,0 +1,57 @@
+<div class="container">
+  <div class="row justify-content-center">
+      <div class="col-md-6">
+          <form [formGroup]="courseForm" (ngSubmit)="onSubmit()">
+              <div class="mb-3">
+                  <label for="name" class="form-label">שם הקורס:</label>
+                  <input type="text" class="form-control" id="name" formControlName="name" required>
+              </div>
+              <div class="mb-3">
+                  <label for="category" class="form-label">קטגוריה:</label>
+                  <select class="form-select" id="category" formControlName="categoryId" required>
+                      <option *ngFor="let c of categories" [value]="c.id">{{c.name}}</option>
+                  </select>
+              </div>
+              <div class="mb-3">
+                  <label for="countLessons" class="form-label">מספר שיעורים:</label>
+                  <input type="number" class="form-control" id="countLessons" formControlName="countLessons" required>
+              </div>
+              <div class="mb-3">
+                  <label for="dateStart" class="form-label">תאריך התחלה:</label>
+                  <input type="date" class="form-control" id="dateStart" formControlName="dateStart" required>
+              </div>
+              <div class="form-group">
+                  <label for="syllabus">סיליבוס:</label>
+                  <div class="syllabus-container">
+                    <div formArrayName="syllabus">
+                      <div *ngFor="let syllabusItem of syllabusControls.controls; let i = index">
+                          <div class="input-group mb-2">
+                              <input type="text" class="form-control" [formControlName]="i" required>
+                              <button class="btn btn-danger" type="button" (click)="removeSyllabusItem(i)">X</button>
+                            </div>
+                      </div>
+                    </div>
+                    <button type="button" class="btn btn-primary" (click)="addSyllabusItem()" style="background-color: #ff6b6b;">הוסף רכיב סיליבוס</button>
+                  </div>
+                </div>
+
+              <div class="mb-3">
+                  <label class="form-label" for="year">סוג למידה: </label>
+                  <br />
+                  <input type="radio" value="typeLearning.זום" name="type" formControlName="type"/>זום
+                  <br />
+                  <input type="radio" value="typeLearning.שנה_ב" name="type" formControlName="type"/>פרונטלי
+              </div>
+              <div class="mb-3">
+                  <label for="image" class="form-label">תמונת הקורס: (קישור)</label>
+                  <input type="text" class="form-control" id="image" formControlName="image" required>
+              </div>
+              <div class="form-group" >
+                  <button type="submit" class="last-btns" class="btn btn-success btn-sm"style="background-color: #ff6b6b; width:10vw; margin-left:1vw" [disabled]="!courseForm.valid">שמור</button>
+                  <button type="button" class="last-btns" (click)="cancel()" class="btn btn-secondary btn-sm"style="background-color: #ff6b6b;width:10vw; margin-left:1vw">ביטול</button>
+                </div>
+
+          </form>
+      </div>
+  </div>
+</div> 
